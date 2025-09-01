@@ -130,4 +130,4 @@ proportion = count/len(shark_list)
 #print(proportion)
 #https://www.geeksforgeeks.org/python/python-count-the-sublists-containing-given-element-in-a-list/
 # https://stackoverflow.com/questions/2600191/how-do-i-count-the-occurrences-of-a-list-item
-# The proportion of attacks that appear to be qhite sharks is 0.17.
+# The proportion of attacks that appear to be white sharks is 0.17.
